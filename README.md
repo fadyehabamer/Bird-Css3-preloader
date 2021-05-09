@@ -1,2 +1,6 @@
-# Simple-Animation-project
-> Bird Loader using css3 Animation
+# GitHub Clone
+> GitHub Website Clone 
+### Tools used : 
+* HTML
+* CSS
+* BOOTSTRAP4
