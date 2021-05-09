@@ -1,5 +1,5 @@
 # GitHub Clone
-> GitHub Website Clone 
+> GitHub Desktop Website Clone 
 ### Tools used : 
 * HTML
 * SASS
