@@ -1,2 +1,2 @@
-# Simple-project
+# Simple-Animation-project
 > Bird Loader using css3 Animation
