@@ -2,5 +2,5 @@
 > GitHub Website Clone 
 ### Tools used : 
 * HTML
-* CSS
+* SASS
 * BOOTSTRAP4
